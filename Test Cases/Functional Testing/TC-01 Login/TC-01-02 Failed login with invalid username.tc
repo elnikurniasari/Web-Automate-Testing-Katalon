@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-01-02 Failed login with invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f220d8d-f825-408a-8bd2-ce44d81e88b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a8c951f-7e7a-45ff-878c-7b390db7319c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c57c0191-8185-4c3f-9cb8-424e34cb652b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doo'</defaultValue>
+      <description></description>
+      <id>5a8c951f-7e7a-45ff-878c-7b390db7319c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>c57c0191-8185-4c3f-9cb8-424e34cb652b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

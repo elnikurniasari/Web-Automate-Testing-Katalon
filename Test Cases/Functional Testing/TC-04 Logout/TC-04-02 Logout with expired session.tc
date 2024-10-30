@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-02 Logout with expired session</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daac9d0b-46ea-4130-8430-a93154c40a25</testCaseGuid>
+</TestCaseEntity>

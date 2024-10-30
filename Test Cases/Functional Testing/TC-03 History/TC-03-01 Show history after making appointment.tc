@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03-01 Show history after making appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>540ef1f9-1b44-4c3b-b8dc-0d4fd1c27462</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1fe42c0-07d7-4f59-9d4f-3c4e09ddaf2e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9cc38a12-8d74-47a1-9bac-2893895989a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7071263e-bbc4-4b8f-aed5-62312181c363</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85a61835-afb9-436d-af0f-647d4d2daf0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68596fc4-a286-4347-a404-2446f8ca9a47</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>d1fe42c0-07d7-4f59-9d4f-3c4e09ddaf2e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>9cc38a12-8d74-47a1-9bac-2893895989a7</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>7071263e-bbc4-4b8f-aed5-62312181c363</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'29/10/2024'</defaultValue>
+      <description></description>
+      <id>85a61835-afb9-436d-af0f-647d4d2daf0c</id>
+      <masked>false</masked>
+      <name>VisiteDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'i want to make appointment with dr.x'</defaultValue>
+      <description></description>
+      <id>68596fc4-a286-4347-a404-2446f8ca9a47</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>
